@@ -7,4 +7,4 @@ I’m a technical manager and product owner currently working with the good peop
 * The mountains are perpetually calling me 🏞
 * My favorite sweet is donuts 🍩
 * I’m currently learning SwiftUI 🌱
-* Some of my favorite video games are Destiny, Civilization VI, Halo 2 🕹
+* Some of my favorite video games are Destiny, Civilization VI, & Halo 2 🕹
