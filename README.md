@@ -7,4 +7,3 @@ I’m a technical manager and product owner currently working with the good peop
 * I love to ski 🎿
 * My favorite sweet is donuts 🍩
 * Currently building a few personal projects in Swift 🐣
-* Currently playing World of Warcraft: Shadowlands 🏴‍☠️
