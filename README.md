@@ -1,7 +1,5 @@
 ### Hey, I'm Justin 👋
 
-* Find my personal site at [nanowatts.net](http://nanowatts.net) 🤠
-* I enjoy making cocktails 🥃
-* I love to ski 🎿
-* My favorite sweet is donuts 🍩
-* Currently building a few personal projects in Swift 🐣
+I’m currently working with the good people of Riot Games as a Technical Product Manager.
+
+I enjoy games, skiing, and photography. I’m also obsessed with mountains, cocktails, and the wild west.
